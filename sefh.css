@@ -1,0 +1,30 @@
+#body {
+    background-color: rgb(255, 255, 255);
+}
+
+#website_logo {
+    top: 30px;
+    left: 30px;
+}
+
+#banner_text {
+    width: 100%;
+    background-color: #5a0000;
+    color: #ffffff;
+    padding: 10px 0;
+    position: relative;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#paragraph_1 {
+    display: flex;
+    justify-content: center;
+}
+
+#Alexander_picture {
+    display: block;
+    margin: auto;
+    border: #5a0000;
+    border-color: #550303;
+    border-style: groove;
+}
